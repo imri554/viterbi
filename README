@@ -1,0 +1,4 @@
+README
+
+There are no known bugs! I thought that the implementation would be best using a dictionary for the observation and scoring matrices,
+so that is how I chose to implement it!

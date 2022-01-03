@@ -1,0 +1,16 @@
+============Parent Sequences===========
+>A: SARS-CoV-1
+YFVVKGDDVR
+
+>B: Bat CoV
+TFLIRFSEVR
+
+=========Recombinant Suspects==========
+>C: control sequence
+PVVDAFEEYN
+
+>D: Bat SARS-Like CoV
+SFIVKGDDVR
+
+>E: SARS-CoV-2
+SFVIRGDEVR
